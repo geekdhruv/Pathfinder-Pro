@@ -1,14 +1,10 @@
 # PATH FINDING VISUALIZER
 
-[![Generic badge](https://img.shields.io/badge/WEBSITE-CLICK%20HERE-1abc9c.svg)](https://sandeep-shaw10.github.io/GraphJS/)
-[![Generic badge](https://img.shields.io/badge/STATUS-ACTIVE-GREEN.svg)](https://sandeep-shaw10.github.io/GraphJS/)
-[![Generic badge](https://img.shields.io/badge/VERSION-v1.0-ffff33.svg)](https://sandeep-shaw10.github.io/GraphJS/)
-[![Generic badge](https://img.shields.io/badge/YEAR-2021-ff3333.svg)](https://sandeep-shaw10.github.io/GraphJS/)
-[![Generic badge](https://img.shields.io/badge/LICENSE-MIT-9933ff.svg)](https://github.com/sandeep-shaw10/GraphJS/blob/master/LICENSE)
+[![Generic badge](https://img.shields.io/badge/WEBSITE-CLICK%20HERE-1abc9c.svg)](https://pathfinder-pro.netlify.app/)
+[![Generic badge](https://img.shields.io/badge/STATUS-ACTIVE-GREEN.svg)](https://pathfinder-pro.netlify.app/)
+[![Generic badge](https://img.shields.io/badge/VERSION-v1.0-ffff33.svg)](https://pathfinder-pro.netlify.app/)
+[![Generic badge](https://img.shields.io/badge/YEAR-2021-ff3333.svg)](https://pathfinder-pro.netlify.app/)
 
-## WEBSITE PREVIEW
-
-![Preview](preview.gif)
 
 ### SEARCHING VISUALIZER
 
