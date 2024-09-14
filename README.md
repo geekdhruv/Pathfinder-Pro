@@ -58,6 +58,6 @@
 ![Preview](visual2.gif)
 
 > Dhruv Vashistha\
-> Student, VIT Vellore CSE\
+> Student, VIT Vellore CSE
 
 
