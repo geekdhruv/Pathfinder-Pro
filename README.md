@@ -1,4 +1,4 @@
-# PATH FINDING VISUALIZER
+# PathFinder-Pro
 
 [![Generic badge](https://img.shields.io/badge/WEBSITE-CLICK%20HERE-1abc9c.svg)](https://pathfinder-pro.netlify.app/)
 [![Generic badge](https://img.shields.io/badge/STATUS-ACTIVE-GREEN.svg)](https://pathfinder-pro.netlify.app/)
